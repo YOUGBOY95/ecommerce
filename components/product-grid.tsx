@@ -20,7 +20,7 @@ export function ProductGrid({  products }: Props) {
         <div>
           <XCircle className="mx-auto h-10 w-10 text-gray-500 dark:text-gray-200" />
           <h1 className="mt-2 text-xl font-bold tracking-tight text-gray-500 dark:text-gray-200 sm:text-2xl">
-          Aucun produit n'a été trouvé
+          Aucun produit trouver
           </h1>
         </div>
       </div>

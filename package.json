@@ -44,8 +44,8 @@
   },
 
 "peerDependencies": {
-  "react": "^18.2.0",
-  "use-shopping-cart": "^17.0.2"
+  "react": "17.0.2",
+  "use-shopping-cart": "^18.2.0"
 },
 
   "devDependencies": {

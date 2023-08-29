@@ -8,7 +8,7 @@ export function MainNav() {
     <div className="flex gap-6 md:gap-10">
       <Link href="/" className="flex items-center space-x-2">
         <Image
-          src="/logo.png"
+          src="/logo.svg"
           alt="Logo"
           width="35"
           height="35"

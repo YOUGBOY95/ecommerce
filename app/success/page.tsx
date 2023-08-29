@@ -24,9 +24,9 @@ export default async function Page({ searchParams }: Props) {
             href="/" // Change this to the correct URL of your homepage
             className="rounded-md bg-indigo-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
           >
-            Retour à laccueil
+            Retour au menu
           </a>
-          <a href={'mailto:test@gmail.com?subject=question sur ma commande ?'} className="text-sm font-semibold">
+          <a href={'mailto:sneakwaves@gmail.com?subject=question sur ma commande ?'} className="text-sm font-semibold">
           Contacter le support <span aria-hidden="true">&rarr;</span>
           </a>
         </div>

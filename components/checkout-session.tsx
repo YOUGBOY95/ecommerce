@@ -25,7 +25,7 @@ export function CheckoutSession({ customerDetails }: Props) {
       <>
         <XCircle className="mx-auto h-10 w-10 text-red-400" />
         <h1 className="mt-4 text-3xl font-bold tracking-tight text-red-400 sm:text-5xl">
-        Aucune session de paiement trouver
+        Aucune session de paiement trouvé
         </h1>
       </>
     )
@@ -41,7 +41,7 @@ export function CheckoutSession({ customerDetails }: Props) {
         Merci, <span className="font-extrabold">{customerDetails.name}</span>!
       </h3>
       <p className="mt-8">
-        Vérifiez le-mail dachat{" "}
+        Vérifiez votre mail{" "}
         <span className="mx-1 font-extrabold text-indigo-500">{customerDetails.email}</span> pour
         votre facture.
       </p>

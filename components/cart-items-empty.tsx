@@ -17,7 +17,7 @@ export function CartItemsEmpty() {
         <Link href="/">
           <Button size="sm" className="relative">
             <Plus className="mr-2 h-4 w-4" />
-            Produit ajouter
+            Ajoutez un produit
           </Button>
         </Link>
       </div>

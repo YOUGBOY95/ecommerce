@@ -61,13 +61,13 @@ export const inventory: InventoryProduct[] = [
   {
     id: "e882fe48-253c-40fb-8155-51b47b063c1a",
     sku: "Air-jordan-1-high-Fearless",
-    name: "Air jordan 1 high Fearless",
-    description: `La Air Jordan 1 Fearless est un coloris inédit célébrant l’intronisation de Michael Jordan au Hall Of Fame en 2009. Le surnom Fearless fait référence au discours de Jordan lors de la cérémonie: «Les limites, tout comme la peur, ne sont souvent qu’une illusion». Un jeu d’asymétrie a été choisi pour cette Air Jordan 1 qui associe les caractéristiques de la UNC et de la mythique Chicago. Un côté brillant est apporté par le cuir verni et par un logo Wings holographique. On retrouve l’inscription “FEAR” sur les semelles intérieures.`,
+    name: "Air jordan 1 high Fearless - (Taille : 41)",
+    description: `Air Jordan 1 Fearless est un coloris inédit célébrant l’intronisation de Michael Jordan au Hall Of Fame en 2009. Le surnom Fearless fait référence au discours de Jordan lors de la cérémonie: «Les limites, tout comme la peur, ne sont souvent qu’une illusion». Un jeu d’asymétrie a été choisi pour cette Air Jordan 1 qui associe les caractéristiques de la UNC et de la mythique Chicago. Un côté brillant est apporté par le cuir verni et par un logo Wings holographique. On retrouve l’inscription “FEAR” sur les semelles intérieures.`,
     price: 35000,
     image:
-      "https://fullstackdotso.nyc3.cdn.digitaloceanspaces.com/braided-leather-belt.jpg",
+      "https://fullstackdotso.nyc3.cdn.digitaloceanspaces.com/air-jordan-1-high-fearless.jpg",
     images: [
-      "https://fullstackdotso.nyc3.cdn.digitaloceanspaces.com/braided-leather-belt.jpg",
+      "https://fullstackdotso.nyc3.cdn.digitaloceanspaces.com/air-jordan-1-high-fearless.jpg",
     ],
     sizes: ["s", "m", "l", "xl"],
     categories: ["belts"],

@@ -98,7 +98,7 @@ export function CartItems() {
 
             <p className="mt-4 flex space-x-2 text-sm">
               <Clock className="h-5 w-5 shrink-0" aria-hidden="true" />
-              <span>livraison en  1 semaine</span>
+              <span>Livraison sous 2 à 4 jours ouvrés</span>
             </p>
           </div>
         </li>
